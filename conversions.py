@@ -1,0 +1,6 @@
+a=input("Enter charcter:")
+b=input("Enter an integer:")
+print(ord(a))
+print(hex(b))
+print(oct(b))
+print(complex(b))
