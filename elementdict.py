@@ -1,0 +1,11 @@
+key1=input("key1:")
+value1=input("value1:")
+key2=input("key2:")
+value2=input("value2:")
+key3=input("key3:")
+value3=input("value3:")
+dict={key1:value1,key2:value2,key3:value3}
+print(dict1)
+print(dict1.get(key1))
+print(dict1.get(key2))
+print(dict1.get(key3))
