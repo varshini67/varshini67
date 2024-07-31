@@ -1,0 +1,13 @@
+tup1=tuple(input().split(",")
+tup2=tuple(input().split(",")
+print(tup1)
+print(tup2)
+list1=list(tup1)
+list2=list(tup2)
+print(tup1)
+print(tup2)
+dict1=zip(list1,list2)
+print(dict((list1,list2)for list1,list2 in dict1))
+set1 = set(tup1)
+print(sorted(set1))
+
